@@ -1,0 +1,9 @@
+object MainForm: TMainForm
+  Left = 259
+  Height = 582
+  Top = 131
+  Width = 777
+  Caption = 'Godot Scene Editor'
+  Position = poDefaultPosOnly
+  LCLVersion = '2.0.2.0'
+end
